@@ -43,4 +43,5 @@ body:
   - type: markdown
     id: screenshot
     attributes:
-      description: If applicable add screenshots to explain your problem
+      value: |
+        If applicable add screenshots to explain your problem
